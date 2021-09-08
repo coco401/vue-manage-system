@@ -3,7 +3,7 @@
 <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-3.2.8-brightgreen.svg" alt="vue">
   </a>
-  <a href="https://github.com/ElemeFE/element">
+  <a href="https://github.com/element-plus/element-plus">
     <img src="https://img.shields.io/badge/element-plus@1.0.2-beta.52-brightgreen.svg" alt="element-plus">
   </a>
   <a href="https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE">
